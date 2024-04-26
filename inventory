@@ -1,4 +1,4 @@
-webserver ansible_host=ip-172-31-43-61
-database ansible_host=ip-172-31-45-73
+webserver ansible_host=ip xxxxx
+database ansible_host=ip xxxx
 local ansible_connection=local
 
